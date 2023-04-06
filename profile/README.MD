@@ -1,3 +1,18 @@
+<style>
+table th:first-of-type {
+    width: 15%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
+}
+table th:nth-of-type(3) {
+    width: 45%;
+}
+table th:nth-of-type(4) {
+    width: 20%;
+}
+</style>
+
 * Day 1
 
 
