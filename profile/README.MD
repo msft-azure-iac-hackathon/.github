@@ -1,3 +1,15 @@
+* ALZ high level deployment flow
+1. Management Groups and Subscriptions handling module
+2. Custom Policy definitions module
+3. Custom RBAC Role Definitions module
+4. Logging & Security module
+5. MGs Diagnostic Settings orchestration (optional)
+6. Network vwanConnectivity module
+7. Network spokeNetworking module
+8. Network vnetPeeringVwan module
+9. Custom RBAC Role Assignment module
+10. Policy assignment module
+
 
 * Day 1
 
