@@ -10,6 +10,25 @@
 9. Custom RBAC Role Assignment module
 10. Policy assignment module
 
+# Logistics
+## Granting access:
+Using event registration email addresses (no dedicated creds)
+
+## Azure subscriptions:
+https://portal.azure.com
+
+## Azure Directory name:
+Tatooine
+
+## GitHub Organization for this event:
+https://github.com/msft-azure-iac-hackathon
+
+## Bicep modules:
+https://aka.ms/ALZ/bicep
+
+## GitHub actions and its runners
+https://github.com/msft-azure-iac-hackathon/github-runner-in-azure-container-apps 
+
 # Daily program
 ## Day 1
 
