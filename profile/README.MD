@@ -1,4 +1,4 @@
-* ALZ high level deployment flow
+# ALZ high level deployment flow
 1. Management Groups and Subscriptions handling module
 2. Custom Policy definitions module
 3. Custom RBAC Role Definitions module
@@ -10,9 +10,8 @@
 9. Custom RBAC Role Assignment module
 10. Policy assignment module
 
-
-* Day 1
-
+# Daily program
+## Day 1
 
 | Timeslot | Subject | Details | Session type |
 |:--------:|-------|-----------|------|
@@ -24,9 +23,7 @@
 |12:00 - 13:00|Lunch break||Break|
 |13:00 - 17:00|Hands-on|Continue the landing zone deployment|Hands-on/lab|
 
-
-
-* Day 2
+## Day 2
 
 | Timeslot | Subject | Details | Session type |
 |:--------:|-------|-----------|------|
@@ -36,8 +33,7 @@
 |13:00 - 14:00|Solution Automation|Learn about a new solution that you must deploy on top of your ESLZ. You will need to build your own templates and pipelines.|Brainstorming|
 |14:00 - 17:00|Hands-on|Start deploying your custom solution (breaks as needed)|Hands-on/lab|
 
-
-* Day 3
+## Day 3
 
 | Timeslot | Subject | Details | Session type |
 |:--------:|-------|-----------|------|
