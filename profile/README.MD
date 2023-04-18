@@ -2,12 +2,25 @@
 1. Management Groups and Subscriptions handling module
 2. Custom Policy definitions module
 3. Creation and deployment of Custom RBAC Role Definitions module
-4. Policy assignment module
+4. Policy assignment module (assign subset)
 5. Logging & Security module
 6. MGs Diagnostic Settings orchestration (optional)
-7. Network vwanConnectivity module
-8. Network spokeNetworking module
-9. Network vnetPeeringVwan module
+7. Policy assignment module (assign subset)
+8. Network vwanConnectivity module
+9. Network spokeNetworking module
+10. Network vnetPeeringVwan module
+11. Policy assignment module (assign subset)
+
+![Intial state](ALZ-0.png)
+![Managment groups and Subscriptions](ALZ-1.png)
+![Custom Policy definitions](ALZ-2.png)
+![Custom RBAC](ALZ-3.png)
+![Custom Policy assignment](ALZ-4.png)
+![Logging and Security](ALZ-5.png)
+![MG Diagnostics](ALZ-6.png)
+![Custom Policy assignment](ALZ-7.png)
+![Network](ALZ-8.png)
+![Custom Policy assignment](ALZ-11.png)
 
 
 # Logistics
