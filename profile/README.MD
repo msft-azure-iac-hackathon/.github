@@ -11,7 +11,7 @@
 10. Network vnetPeeringVwan module
 11. Policy assignment module (assign subset)
 
-![Intial state](ALZ-0.png)
+![Intial state](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-0.png)
 ![Managment groups and Subscriptions](ALZ-1.png)
 ![Custom Policy definitions](ALZ-2.png)
 ![Custom RBAC](ALZ-3.png)
