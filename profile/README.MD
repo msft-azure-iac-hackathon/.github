@@ -19,7 +19,7 @@
 ![Logging and Security](ALZ-5.png)
 ![MG Diagnostics](ALZ-6.png)
 ![Custom Policy assignment](ALZ-7.png)
-![Network](ALZ-8.png)
+![Network](ALZ-8-10.png)
 ![Custom Policy assignment](ALZ-11.png)
 
 
