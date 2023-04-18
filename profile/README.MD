@@ -7,8 +7,7 @@
 6. Network vwanConnectivity module
 7. Network spokeNetworking module
 8. Network vnetPeeringVwan module
-9. Custom RBAC Role Assignment module
-10. Policy assignment module
+9. Policy assignment module
 
 # Logistics
 ## Granting access:
