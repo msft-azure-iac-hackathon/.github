@@ -2,12 +2,13 @@
 1. Management Groups and Subscriptions handling module
 2. Custom Policy definitions module
 3. Custom RBAC Role Definitions module
-4. Logging & Security module
-5. MGs Diagnostic Settings orchestration (optional)
-6. Network vwanConnectivity module
-7. Network spokeNetworking module
-8. Network vnetPeeringVwan module
-9. Policy assignment module
+4. Policy assignment module
+5. Logging & Security module
+6. MGs Diagnostic Settings orchestration (optional)
+7. Network vwanConnectivity module
+8. Network spokeNetworking module
+9. Network vnetPeeringVwan module
+
 
 # Logistics
 ## Granting access:
