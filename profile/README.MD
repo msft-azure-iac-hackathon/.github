@@ -12,15 +12,15 @@
 11. Policy assignment module (assign subset)
 
 ![Intial state](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-0.png)
-![Managment groups and Subscriptions](ALZ-1.png)
-![Custom Policy definitions](ALZ-2.png)
-![Custom RBAC](ALZ-3.png)
-![Custom Policy assignment](ALZ-4.png)
-![Logging and Security](ALZ-5.png)
-![MG Diagnostics](ALZ-6.png)
-![Custom Policy assignment](ALZ-7.png)
-![Network](ALZ-8-10.png)
-![Custom Policy assignment](ALZ-11.png)
+![Managment groups and Subscriptions](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-1.png)
+![Custom Policy definitions](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-2.png)
+![Custom RBAC](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-3.png)
+![Custom Policy assignment](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-4.png)
+![Logging and Security](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-5.png)
+![MG Diagnostics](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-6.png)
+![Custom Policy assignment](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-7.png)
+![Network](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-8-10.png)
+![Custom Policy assignment](https://raw.githubusercontent.com/msft-azure-iac-hackathon/.github/main/profile/ALZ-11.png)
 
 
 # Logistics
